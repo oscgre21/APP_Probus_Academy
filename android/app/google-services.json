@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001284026087",
+    "firebase_url": "https://probusaca-push.firebaseio.com",
+    "project_id": "probusaca-push",
+    "storage_bucket": "probusaca-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001284026087:android:5bf18aaa67f9a7a9032c42",
+        "android_client_info": {
+          "package_name": "com.example.probusaca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001284026087-epmhtv0147c217jev5eevfasa1hhpr90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.probusaca",
+            "certificate_hash": "59fface1ed93e1c2de2eb96740b4d2765ed486e2"
+          }
+        },
+        {
+          "client_id": "1001284026087-7lvbbtfva282gnlskkfmti2jil2in0ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-aXpA5JiOa9W-uItUokEJAy3X9Jb0YOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001284026087-7lvbbtfva282gnlskkfmti2jil2in0ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
